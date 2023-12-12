@@ -1,2 +1,2 @@
 # SerializacaoEmCSharp
- Serialização de arquivo .json em C#
+ Serialização e desserialização de arquivo .json em C#
